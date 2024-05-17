@@ -1,0 +1,273 @@
+    Metallica
+    Iron Maiden
+    Black Sabbath
+    Judas Priest
+    Slayer
+    Megadeth
+    Pantera
+    Slipknot
+    Motorhead
+    Anthrax
+    Lamb Of God
+    Tool
+    Opeth
+    Mastodon
+    Meshuggah
+    Sepultura
+    Kreator
+    Cannibal Corpse
+    Behemoth
+    In Flames
+    Children Of Bodom
+    Nightwish
+    Arch Enemy
+    Gojira
+    Dream Theater
+    Avenged Sevenfold
+    Trivium
+    Sabaton
+    Dimmu Borgir
+    Amon Amarth
+    Testament
+    Symphony X
+    Epica
+    Machine Head
+    Celtic Frost
+    Emperor
+    Darkthrone
+    Immortal
+    Mayhem
+    Mercyful Fate
+    At The Gates
+    Carcass
+    Cradle Of Filth
+    Entombed
+    Bolt Thrower
+    Sodom
+    Destruction
+    Venom
+    Morbid Angel
+    Paradise Lost
+    Candlemass
+    Katatonia
+    Iced Earth
+    Amorphis
+    Sonata Arctica
+    Kamelot
+    Stratovarius
+    Blind Guardian
+    Helloween
+    Rhapsody Of Fire
+    Powerwolf
+    Hammerfall
+    Within Temptation
+    Delain
+    Lacuna Coil
+    My Dying Bride
+    Anathema
+    Moonspell
+    Tiamat
+    Type O Negative
+    Edge Of Sanity
+    Therion
+    Ayreon
+    Devin Townsend Project
+    Fates Warning
+    Queensryche
+    Savatage
+    Evergrey
+    Shadow Gallery
+    Circus Maximus
+    Redemption
+    Pain Of Salvation
+    Vanden Plas
+    Neurosis
+    Bathory
+    Enslaved
+    Satyricon
+    Gorgoroth
+    Watain
+    Marduk
+    Rotting Christ
+    Annihilator
+    Nile
+    Suffocation
+    Cynic
+    Atheist
+    Madonna
+    Abba
+    Spice Girls
+    Backstreet Boys
+    Destiny's Child
+    Nsync
+    One Direction
+    Taylor Swift
+    The Supremes
+    The Beach Boys
+    Eagles
+    The Temptations
+    The Four Seasons
+    Creedence Clearwater Revival
+    Dire Straits
+    The Police
+    Michael Jackson
+    Britney Spears
+    Justin Timberlake
+    Lady Gaga
+    Mariah Carey
+    Katy Perry
+    Rihanna
+    Whitney Houston
+    Ariana Grande
+    Christina Aguilera
+    Kylie Minogue
+    Selena Gomez
+    Shakira
+    The Pussycat Dolls
+    Pink
+    Sia
+    Adele
+    Ed Sheeran
+    Sam Smith
+    Bruno Mars
+    Jason Derulo
+    Jennifer Lopez
+    Usher
+    Eminem
+    Drake
+    Kanye West
+    Justin Bieber
+    The Weeknd
+    BTS
+    Blackpink
+    Little Mix
+    Fifth Harmony
+    New Kids On The Block
+    Boyz II Men
+    Westlife
+    Girls Aloud
+    S Club
+    The Jonas Brothers
+    The Wanted
+    Big Time Rush
+    Twenty One Pilots
+    Panic! At The Disco
+    Imagine Dragons
+    Maroon 5
+    Coldplay
+    Linkin Park
+    Red Hot Chili Peppers
+    Paramore
+    Fall Out Boy
+    My Chemical Romance
+    The Killers
+    The Script
+    One Republic
+    Bastille
+    Halsey
+    Lana Del Rey
+    Billie Eilish
+    Lorde
+    NWA
+    Outkast
+    Wu-Tang Clan
+    Public Enemy
+    Run DMC
+    Beastie Boys
+    A Tribe Called Quest
+    Cypress Hill
+    Gang Starr
+    De La Soul
+    EPMD
+    Black Eyed Peas
+    Bone Thugs N Harmony
+    Naughty By Nature
+    Geto Boys
+    Mobb Deep
+    Roots
+    Atmosphere
+    Dilated Peoples
+    The Pharcyde
+    Digital Underground
+    Fugees
+    Xzibit
+    Method Man
+    LL Cool J
+    KRS One
+    Kool G Rap
+    Snoop Dogg
+    50 Cent
+    Nas
+    Lil Wayne
+    Young Money
+    The Game
+    Tyler The Creator
+    Lauryn Hill & The Fugees
+    Kendrick Lamar
+    Common & Native Tongues
+    Ice T
+    Digable Planets
+    Outlawz
+    Public Announcement
+    Big L
+    Tupac
+    Triptykon
+    Immolation
+    Septicflesh
+    Neurosis
+    Enslaved
+    Satyricon
+    Marduk 
+    Rotting Christ
+    Annihilator
+    Nile
+    Suffocation
+    Cynic
+    Atheist
+    The Beatles
+    Led Zeppelin
+    The Rolling Stones
+    Pink Floyd
+    The Who
+    Nirvana
+    Queen
+    AC/DC
+    Guns N' Roses
+    The Doors
+    Red Hot Chili Peppers
+    Pearl Jam
+    Aerosmith
+    U2
+    Radiohead
+    Green Day
+    Jimi Hendrix Experience
+    The Clash
+    Van Halen
+    Lynyrd Skynyrd
+    Foo Fighters
+    Deep Purple
+    The Police
+    Rush
+    Soundgarden
+    The Kinks
+    Fleetwood Mac
+    ZZ Top
+    Cream
+    The Smiths
+    R.E.M.
+    Bon Jovi
+    Ramones
+    Journey
+    Yes
+    The Cure
+    Def Leppard
+    Alice in Chains
+    The Velvet Underground
+    Genesis
+    Oasis
+    Muse
+    Boston
+    The White Stripes
+    The Smashing Pumpkins
+    Scorpions
+    System of a down
