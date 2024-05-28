@@ -98,18 +98,18 @@
     Abba
     Spice Girls
     Backstreet Boys
-    Destiny's Child
+    Destinys Child
     Nsync
     One Direction
     Taylor Swift
-    The Supremes
-    The Beach Boys
+    Supremes
+    Beach Boys
     Eagles
-    The Temptations
-    The Four Seasons
+    Temptations
+    Four Seasons
     Creedence Clearwater Revival
     Dire Straits
-    The Police
+    Police
     Michael Jackson
     Britney Spears
     Justin Timberlake
@@ -123,7 +123,7 @@
     Kylie Minogue
     Selena Gomez
     Shakira
-    The Pussycat Dolls
+    Pussycat Dolls
     Pink
     Sia
     Adele
@@ -137,7 +137,7 @@
     Drake
     Kanye West
     Justin Bieber
-    The Weeknd
+    Weeknd
     BTS
     Blackpink
     Little Mix
@@ -147,21 +147,20 @@
     Westlife
     Girls Aloud
     S Club
-    The Jonas Brothers
-    The Wanted
+    Jonas Brothers
+    Wanted
     Big Time Rush
     Twenty One Pilots
-    Panic! At The Disco
+    Panic At The Disco
     Imagine Dragons
-    Maroon 5
     Coldplay
     Linkin Park
     Red Hot Chili Peppers
     Paramore
     Fall Out Boy
     My Chemical Romance
-    The Killers
-    The Script
+    Killers
+    Script
     One Republic
     Bastille
     Halsey
@@ -170,7 +169,7 @@
     Lorde
     NWA
     Outkast
-    Wu-Tang Clan
+    Wu Tang Clan
     Public Enemy
     Run DMC
     Beastie Boys
@@ -187,7 +186,7 @@
     Roots
     Atmosphere
     Dilated Peoples
-    The Pharcyde
+    Pharcyde
     Digital Underground
     Fugees
     Xzibit
@@ -196,15 +195,16 @@
     KRS One
     Kool G Rap
     Snoop Dogg
-    50 Cent
     Nas
     Lil Wayne
     Young Money
-    The Game
+    Game
     Tyler The Creator
-    Lauryn Hill & The Fugees
+    Lauryn Hill 
+    Fugees
     Kendrick Lamar
-    Common & Native Tongues
+    Common
+    Native Tongues
     Ice T
     Digable Planets
     Outlawz
@@ -224,50 +224,49 @@
     Suffocation
     Cynic
     Atheist
-    The Beatles
+    Beatles
     Led Zeppelin
-    The Rolling Stones
+    Rolling Stones
     Pink Floyd
-    The Who
+    Who
     Nirvana
     Queen
-    AC/DC
-    Guns N' Roses
-    The Doors
+    ACDC
+    Guns N Roses
+    Doors
     Red Hot Chili Peppers
     Pearl Jam
     Aerosmith
-    U2
     Radiohead
     Green Day
     Jimi Hendrix Experience
-    The Clash
+    Clash
     Van Halen
     Lynyrd Skynyrd
     Foo Fighters
     Deep Purple
-    The Police
+    Police
     Rush
     Soundgarden
-    The Kinks
+    Kinks
     Fleetwood Mac
     ZZ Top
     Cream
-    The Smiths
-    R.E.M.
+    Smiths
+    REM
     Bon Jovi
     Ramones
     Journey
     Yes
-    The Cure
+    Cure
     Def Leppard
     Alice in Chains
-    The Velvet Underground
+    Velvet Underground
     Genesis
     Oasis
     Muse
     Boston
-    The White Stripes
-    The Smashing Pumpkins
+    White Stripes
+    Smashing Pumpkins
     Scorpions
     System of a down
