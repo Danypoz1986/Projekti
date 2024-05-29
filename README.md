@@ -17,9 +17,15 @@ Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvat
 1. Varmista, että Python on asennettu.
 2. Suorita peli komennolla: 
     <img src="img1.png" alt="komento" style="vertical-align:middle; margin-left: 5px; margin-top: 5px;">
-   
 
-   
 =======
+
+
+## Pelin koodi ja selitykset
+
+### Moduulien tuonti
+```python
+import shutil
+import pydoc
 
 
