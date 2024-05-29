@@ -5,6 +5,9 @@ Kyseessä on bändipeli, jossa aloitetaan sanomalla bändi. Seuraavan pelaajan t
 
 Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvata rockbändien nimiä. Jokaisen arvauksen tulee alkaa edellisen bändin viimeisellä kirjaimella. Peliä voi pelata toistuvasti ja se tarjoaa kolme arvauskertaa per pelikerta.
 
+## Pelin kulku
+![Pelin virtauskaavio](pelin virtauskaavio.png)
+
 ## Toiminnallisuudet
 - Lataa bändien nimet tiedostosta ja muokkaa ne käyttökelpoiseen muotoon.
 - Tarkistaa käyttäjän syöttämien bändien nimien kelvollisuuden.
