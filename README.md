@@ -13,10 +13,10 @@ Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvat
 - Tarkistaa käyttäjän syöttämien bändien nimien kelvollisuuden.
 - Hallinnoi pelin kulkua ja käyttäjän syötteitä.
 
+
 ## Käyttö
 1. Varmista, että Python on asennettu.
-2. Suorita peli komennolla: 
-    <img src="img1.png" alt="komento" style="vertical-align:middle; margin-left: 5px; margin-top: 5px;">
+2. Suorita peli komennolla: `python3 arvaa_bandi.py`
 
 =======
 
@@ -24,8 +24,9 @@ Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvat
 ## Pelin koodi ja selitykset
 
 ### Moduulien tuonti
-```python
+
 import shutil
 import pydoc
+
 
 
