@@ -8,7 +8,7 @@ Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvat
 <br>
 
 ## Linkit:
-* **Tutustu peliin tarkemmin**: Katso YouTube-videomme, jossa selitämme pelin toimintaperiaatteet ja annamme vinkkejä sen pelaamiseen.
+* **Tutustu peliin tarkemmin**: Katso [YouTube-videomme](), jossa selitämme pelin toimintaperiaatteet ja annamme vinkkejä sen pelaamiseen.
   
 * **Kokeile peliä itse**: Siirry [Codespaces](https://organic-yodel-wrgw4pqxq59c95g4.github.dev/) -sivustollemme pelataksesi peliä suoraan selaimessasi.
 <br>
