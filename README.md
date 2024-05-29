@@ -53,7 +53,7 @@ import shutil
 import pydoc 
 ```
 ## Funktiot
-<br>
+
 
 ### lataa_bandit
 ```python
