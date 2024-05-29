@@ -16,7 +16,7 @@ Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvat
 
 ## Käyttö
 1. Varmista, että Python on asennettu.
-2. Suorita peli komennolla: <b>
+2. Suorita peli komennolla:
    <img src="Screenshot 2024-05-29 021312.png" alt="komento" style="">
     
 =======
