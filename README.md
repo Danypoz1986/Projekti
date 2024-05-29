@@ -4,27 +4,19 @@
 Kyseessä on bändipeli, jossa aloitetaan sanomalla bändi. Seuraavan pelaajan tehtävänä on arvata bändi, joka alkaa edellisen arvauksen viimeisellä kirjaimella. Pelaajalla on kolme yritystä, ennenkuin hän tipahtaa pois. Projekti on kehitysvaiheessa ja yhtyelista ei välttämättä ole vielä erityisen kattava, mutta sitä päivitetään. Peli-idea lähti lapsuuden automatkoista, joilla kyseistä peliä pelattiin ruutuvihkolla tai ihan vaan muistin varassa. Projektin ovat luoneet Janne Juote, Daniel Pozzoli ja Daniel Väkiparta.
 
 Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvata rockbändien nimiä. Jokaisen arvauksen tulee alkaa edellisen bändin viimeisellä kirjaimella. Peliä voi pelata toistuvasti ja se tarjoaa kolme arvauskertaa per pelikerta.
-<br>
-<br>
 
 ## Linkit:
 * **Tutustu peliin tarkemmin**: Katso [YouTube-videomme](), jossa selitämme pelin toimintaperiaatteet ja annamme vinkkejä sen pelaamiseen.
   
 * **Kokeile peliä itse**: Siirry [Codespaces](https://organic-yodel-wrgw4pqxq59c95g4.github.dev/) -sivustollemme pelataksesi peliä suoraan selaimessasi.
-<br>
-<br>
 
 ## Pelin kulku
 <img src="pelin virtauskaavio.png" alt="komento" style="">
-<br>
-<br>
 
 ## Toiminnallisuudet
 - Lataa bändien nimet tiedostosta ja muokkaa ne käyttökelpoiseen muotoon.
 - Tarkistaa käyttäjän syöttämien bändien nimien kelvollisuuden.
 - Hallinnoi pelin kulkua ja käyttäjän syötteitä.
-<br>
-<br>
 
 ## Käyttö
 1. Varmista, että Python on asennettu.
