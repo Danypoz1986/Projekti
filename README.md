@@ -68,7 +68,6 @@ def lataa_bandit(tiedostonimi):
     return bandit
 ```
 ###### Tämä funktio lataa bändien nimet tiedostosta, poistaa ylimääräiset välilyönnit ja muuttaa kaikki nimet pieniksi kirjaimiksi.
-<br>
 
 ### on_validi_arvaus
 ```python
