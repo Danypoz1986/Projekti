@@ -16,12 +16,15 @@ Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvat
 
 ## Pelin kulku
 <img src="pelin virtauskaavio.png" alt="komento" style="">
+<br>
+<br>
 
 ## Toiminnallisuudet
 - Lataa bändien nimet tiedostosta ja muokkaa ne käyttökelpoiseen muotoon.
 - Tarkistaa käyttäjän syöttämien bändien nimien kelvollisuuden.
 - Hallinnoi pelin kulkua ja käyttäjän syötteitä.
-
+<br>
+<br>
 
 ## Käyttö
 1. Varmista, että Python on asennettu.
