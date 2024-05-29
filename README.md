@@ -84,7 +84,6 @@ def on_validi_arvaus(bandi, bandit, arvatut_bandit, viimeinen_kirjain):
     )
 ```
 ###### Tämä funktio tarkistaa, onko käyttäjän syöttämä arvaus kelvollinen. Arvauksen täytyy olla bändilistalla, ei vielä arvattu ja alkaa oikealla kirjaimella.
-<br>
 
 ### Pääfunktio
 ```python
@@ -128,7 +127,6 @@ def main():
     print()
 ```
 ###### Pääfunktio `main()` hallinnoi koko "Arvaa Bändi" -pelin kulkua. Tämä funktio vastaa muuttujien alustamisesta, tietojen lataamisesta tiedostosta ja pelilogiikan hallinnasta, joka sisältää käyttäjän syötteiden vastaanottamisen, arvausten tarkistamisen ja arvattujen bändien seurannan. Lisäksi se hallitsee pelin kierroksia ja määrittää, milloin peli päättyy, joko voiton, tappion tai käyttäjän pelin lopetuksen myötä.
-<br>
 
 ### Pelin suorittaminen
 ```python
