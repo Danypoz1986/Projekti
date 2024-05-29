@@ -20,13 +20,22 @@ Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvat
     
 =======
 
-
 ## Pelin koodi ja selitykset
 
 ### Moduulien tuonti
-
+```python
 import shutil
-import pydoc
+import pydoc 
+```
+### Funktiot
+
+```python
+def lataa_bandit(tiedostonimi):
+    # Lataa bändien nimet tiedostosta, poistaa ylimääräiset välilyönnit ja muuttaa nimet pieniksi kirjaimiksi.
+    with open(tiedostonimi, 'r') as tiedosto:
+        bandit = [line.strip().lower() for line in tiedosto.readlines()]
+    return bandit
+```
 
 
 
