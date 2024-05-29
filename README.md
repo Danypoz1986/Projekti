@@ -52,7 +52,7 @@ Pelin kulku on seuraava:
 import shutil
 import pydoc 
 ```
-### Funktiot
+## Funktiot
 <br>
 
 ### lataa_bandit
