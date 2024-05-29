@@ -1,5 +1,19 @@
 # Tervetuloa Arvaa Bändi -peli sivulle!!!
 
+## Menu
+- [Kuvaus](#kuvaus)
+- [Linkit](#linkit)
+- [Pelin kulku](#pelin-kulku)
+- [Toiminnallisuudet](#toiminnallisuudet)
+- [Käyttö](#käyttö)
+- [Pelin koodi ja selitykset](#pelin-koodi-ja-selitykset)
+  - [Moduulien tuonti](#moduulien-tuonti)
+  - [Funktiot](#funktiot)
+    - [lataa_bandit](#lataa_bandit)
+    - [on_validi_arvaus](#on_validi_arvaus)
+    - [Pääfunktio](#pääfunktio)
+  - [Pelin suorittaminen](#pelin-suorittaminen)
+
 ## Kuvaus
 Kyseessä on bändipeli, jossa aloitetaan sanomalla bändi. Seuraavan pelaajan tehtävänä on arvata bändi, joka alkaa edellisen arvauksen viimeisellä kirjaimella. Pelaajalla on kolme yritystä, ennenkuin hän tipahtaa pois. Projekti on kehitysvaiheessa ja yhtyelista ei välttämättä ole vielä erityisen kattava, mutta sitä päivitetään. Peli-idea lähti lapsuuden automatkoista, joilla kyseistä peliä pelattiin ruutuvihkolla tai ihan vaan muistin varassa. Projektin ovat luoneet Janne Juote, Daniel Pozzoli ja Daniel Väkiparta.
 
