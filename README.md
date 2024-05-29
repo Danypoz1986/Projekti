@@ -16,7 +16,7 @@ Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvat
 
 ## Käyttö
 1. Varmista, että Python on asennettu.
-2. Suorita peli komennolla: 'python3 Arvaa_Bandi.py'
+2. Suorita peli komennolla: 'python3 arvaa_bandi.py'
     
 =======
 
