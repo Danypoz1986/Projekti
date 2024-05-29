@@ -16,7 +16,7 @@ Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvat
 
 ## Käyttö
 1. Varmista, että Python on asennettu.
-2. Suorita peli komennolla: 'python3 arvaa_bandi.py'
+2. Suorita peli komennolla: ```bash python3 arvaa_bandi.py```
     
 =======
 
@@ -31,7 +31,9 @@ import pydoc
 
 ```python
 def lataa_bandit(tiedostonimi):
-    # Lataa bändien nimet tiedostosta, poistaa ylimääräiset välilyönnit ja muuttaa nimet pieniksi kirjaimiksi.
+    # Lataa bändien nimet tiedostosta, 
+    # poistaa ylimääräiset välilyönnit 
+    # ja muuttaa nimet pieniksi kirjaimiksi.
     with open(tiedostonimi, 'r') as tiedosto:
         bandit = [line.strip().lower() for line in tiedosto.readlines()]
     return bandit
