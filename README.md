@@ -139,7 +139,7 @@ if __name__ == "__main__":
         if uusi_peli == 'e':
             break
     print("Heippa!!")
-    pydoc.writedoc('Arvaa_Bändi')
+    pydoc.writedoc('Arvaa_Bändi') # tämä luo automaattisesti dokumentaation pydoc-muodossa.
 ```
 ###### Koodi `if __name__ == "__main__"` varmistaa, että pääfunktio main() suoritetaan vain, kun skriptiä ajetaan suoraan, ei kun sitä tuodaan moduulina. Tämä koodiblokki mahdollistaa pelin käynnistämisen ja tarjoaa käyttäjälle mahdollisuuden pelata useita kertoja, kunnes hän päättää lopettaa pelin.
 
