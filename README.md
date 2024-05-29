@@ -28,7 +28,9 @@ import shutil
 import pydoc 
 ```
 ### Funktiot
+<br>
 
+### lataa_bandit
 ```python
 def lataa_bandit(tiedostonimi):
     """
@@ -40,10 +42,10 @@ def lataa_bandit(tiedostonimi):
         bandit = [line.strip().lower() for line in tiedosto.readlines()]
     return bandit
 ```
+###### Tämä funktio lataa bändien nimet tiedostosta, poistaa ylimääräiset välilyönnit ja muuttaa kaikki nimet pieniksi kirjaimiksi.
+<br>
 
-
-##### Tämä funktio lataa bändien nimet tiedostosta, poistaa ylimääräiset välilyönnit ja muuttaa kaikki nimet pieniksi kirjaimiksi.
-
+### on_validi_arvaus
 ```python
 def on_validi_arvaus(bandi, bandit, arvatut_bandit, viimeinen_kirjain):
     """
@@ -57,6 +59,10 @@ def on_validi_arvaus(bandi, bandit, arvatut_bandit, viimeinen_kirjain):
         (bandi[0] == viimeinen_kirjain or viimeinen_kirjain == '')
     )
 ```
+###### Tämä funktio tarkistaa, onko käyttäjän syöttämä arvaus kelvollinen. Arvauksen täytyy olla bändilistalla, ei vielä arvattu ja alkaa oikealla kirjaimella.
+<br>
+
+### Pääfunktio
 ```python
 def main():
     # Hallinnoi pelin kulkua ja käyttäjän syötteitä.
@@ -96,8 +102,27 @@ def main():
         padding_width = (shutil.get_terminal_size().columns - max(len(bandi) for bandi in arvatut_bandit)) // 2
         print(' ' * padding_width + bandi.upper())
     print()
-
-def main():
 ```
+###### Pääfunktio `main()` hallinnoi koko "Arvaa Bändi" -pelin kulkua. Tämä funktio vastaa muuttujien alustamisesta, tietojen lataamisesta tiedostosta ja pelilogiikan hallinnasta, joka sisältää käyttäjän syötteiden vastaanottamisen, arvausten tarkistamisen ja arvattujen bändien seurannan. Lisäksi se hallitsee pelin kierroksia ja määrittää, milloin peli päättyy, joko voiton, tappion tai käyttäjän pelin lopetuksen myötä.
+<br>
+
+### Pelin suorittaminen
+```python
+if __name__ == "__main__":
+    # Pelin toistuva suoritus kunnes käyttäjä päättää lopettaa
+    while True:
+        main()
+        uusi_peli = ''
+        while uusi_peli != 'k' and uusi_peli != 'e':
+            uusi_peli = input("Haluatko pelata uudelleen? [K]yllä vai [E]i ").lower().strip()
+            if uusi_peli != 'k' and uusi_peli != 'e':
+                print("Syötä 'K' jatkaaksesi tai 'E' lopettaaksesi.")
+        if uusi_peli == 'e':
+            break
+    print("Heippa!!")
+    pydoc.writedoc('Arvaa_Bändi')
+```
+###### Koodi `if __name__ == "__main__"` varmistaa, että pääfunktio main() suoritetaan vain, kun skriptiä ajetaan suoraan, ei kun sitä tuodaan moduulina. Tämä koodiblokki mahdollistaa pelin käynnistämisen ja tarjoaa käyttäjälle mahdollisuuden pelata useita kertoja, kunnes hän päättää lopettaa pelin.
+
 
 
