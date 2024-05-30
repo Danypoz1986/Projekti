@@ -15,9 +15,7 @@
   - [Pelin suorittaminen](#pelin-suorittaminen)
 
 ## Kuvaus
-Kyseessä on bändipeli, jossa aloitetaan sanomalla bändi. Seuraavan pelaajan tehtävänä on arvata bändi, joka alkaa edellisen arvauksen viimeisellä kirjaimella. Pelaajalla on kolme yritystä, ennenkuin hän tipahtaa pois. Projekti on kehitysvaiheessa ja yhtyelista ei välttämättä ole vielä erityisen kattava, mutta sitä päivitetään. Peli-idea lähti lapsuuden automatkoista, joilla kyseistä peliä pelattiin ruutuvihkolla tai ihan vaan muistin varassa. Projektin ovat luoneet Janne Juote, Daniel Pozzoli ja Daniel Väkiparta.
-
-Tämä Python-sovellus on interaktiivinen arvauspeli, jossa pelaajan tulee arvata rockbändien nimiä. Jokaisen arvauksen tulee alkaa edellisen bändin viimeisellä kirjaimella. Peliä voi pelata toistuvasti ja se tarjoaa kolme arvauskertaa per pelikerta.
+Kyseessä on bändipeli, jossa aloitetaan sanomalla yhden bändin nimi. Seuraavan pelaajan tehtävänä on sanoa toisen bändin nimi, joka alkaa edellisen bändin nimen viimeisellä kirjaimella. Esimerkiksi, jos edellinen bändi oli "Metallica", seuraava voisi olla "AC/DC". Pelaajalla on kolme yritystä arvata, ennen kuin hän putoaa pelistä. Tämä interaktiivinen arvauspeli on vielä kehitysvaiheessa, ja vaikka yhtyelista ei ole vielä kattava, sitä päivitetään jatkuvasti. Peli-idea on saanut alkunsa lapsuuden automatkoista, jolloin peliä pelattiin ruutuvihkolla tai muistin varassa. Pelin ovat luoneet Janne Juote, Daniel Pozzoli ja Daniel Väkiparta
 
 Pelin kulku on seuraava:
 * Peli loppuu, jos tehdään 3 virhettä tai kirjoitetaan 'lopeta'.
