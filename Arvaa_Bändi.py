@@ -77,4 +77,4 @@ if __name__ == "__main__":
             break
     print("Heippa!!")
     print()
-    pydoc.writedoc('Arvaa_Bändi')
+    doc.writedoc('Arvaa_Bändi')
