@@ -15,12 +15,21 @@
   - [Pelin suorittaminen](#pelin-suorittaminen)
 
 ## Kuvaus
-Kyseessä on bändipeli, jossa aloitetaan sanomalla yhden bändin nimi. Seuraavan pelaajan tehtävänä on sanoa toisen bändin nimi, joka alkaa edellisen bändin nimen viimeisellä kirjaimella. Esimerkiksi, jos edellinen bändi oli "Metallica", seuraava voisi olla "AC/DC". Pelaajalla on kolme yritystä arvata, ennen kuin hän putoaa pelistä. Tämä interaktiivinen arvauspeli on vielä kehitysvaiheessa, ja vaikka yhtyelista ei ole vielä kattava, sitä päivitetään jatkuvasti. Peli-idea on saanut alkunsa lapsuuden automatkoista, jolloin peliä pelattiin ruutuvihkolla tai muistin varassa. Pelin ovat luoneet Janne Juote, Daniel Pozzoli ja Daniel Väkiparta
+Kyseessä on bändipeli, jossa aloitetaan sanomalla yhden bändin nimi. Seuraavan pelaajan tehtävänä on sanoa toisen bändin nimi, joka alkaa edellisen bändin nimen viimeisellä kirjaimella. Esimerkiksi, jos edellinen bändi oli "Metallica", seuraava voisi olla "Apocalyptica", "Amorphis", "Slipknot" jne. Pelaajalla on kolme yritystä arvata, ennen kuin hän putoaa pelistä. Tämä interaktiivinen arvauspeli on vielä kehitysvaiheessa, ja vaikka yhtyelista ei ole vielä kattava, sitä päivitetään jatkuvasti. Peli-idea on saanut alkunsa lapsuuden automatkoista, jolloin peliä pelattiin ruutuvihkolla tai muistin varassa. Pelin ovat luoneet Janne Juote, Daniel Pozzoli ja Daniel Väkiparta
 
 Pelin kulku on seuraava:
 * Peli loppuu, jos tehdään 3 virhettä tai kirjoitetaan 'lopeta'.
 * Jos bändiä ei löydy tiedostosta, se lasketaan virheeksi.
 * Pelin lopussa ohjelma kysyy, haluaako pelaaja pelata uudelleen. Jos vastaus on kielteinen, ohjelma päättyy.
+
+Pelin sääntöjä:
+
+* Pelissä "erikoiskirjaimet" on muutettu normaaleiksi kirjaimiksi, eli esimerkiksi é = e.
+* Yhtyeet, joiden nimissä on &-merkki on poistettu.
+* '-' merkki on poistettu, eli esimerkiksi: Guns 'n' Roses = Guns n roses
+* Kaikki etuliitteet, kuten DJ tai THE, on poistettu, eli esimerkiksi The Beatles = Beatles.
+* Ohjelma muuntaa automaattisesti kirjainkoot, joten isoilla tai pienillä kirjaimilla ei ole merkitystä.
+
 
 
 ## Linkit:
@@ -29,7 +38,7 @@ Pelin kulku on seuraava:
 * **Kokeile peliä itse**: Siirry [Codespaces](https://organic-yodel-wrgw4pqxq59c95g4.github.dev/) -sivustollemme pelataksesi peliä suoraan selaimessasi.
 
 ## Pelin kulku
-<img src="pelin virtauskaavio.png" alt="komento" style="">
+<img src="image.png" alt="komento" style="">
 
 ## Toiminnallisuudet
 - Lataa bändien nimet tiedostosta ja muokkaa ne käyttökelpoiseen muotoon.
