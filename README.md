@@ -35,7 +35,7 @@ Pelin sääntöjä:
 ## Linkit:
 * **Tutustu peliin tarkemmin**: Katso [YouTube-videomme](https://www.youtube.com/watch?v=7xK8ujMKJD4), jossa selitämme pelin toimintaperiaatteet ja annamme vinkkejä sen pelaamiseen.
   
-* **Kokeile peliä itse**: Siirry [Codespaces](https://organic-yodel-wrgw4pqxq59c95g4.github.dev/) -sivustollemme pelataksesi peliä suoraan selaimessasi.
+* **Kokeile peliä itse**: Siirry [Codespaces](https://glowing-journey-69gqxgr49jq7cjr.github.dev/) -sivustollemme pelataksesi peliä suoraan selaimessasi.
 
 ## Pelin kulku
 <img src="image.png" alt="komento" style="">
